@@ -1,14 +1,19 @@
 {
     "content": [
         {
+            "path": "SimObjects/Airplanes/paintchip.jpg",
+            "size": 2433,
+            "date": 132470179441885286
+        },
+        {
+            "path": "SimObjects/Airplanes/paintchip.pdn",
+            "size": 8404,
+            "date": 132470179278550090
+        },
+        {
             "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style1/aircraft.cfg",
             "size": 785,
             "date": 132470161062442586
-        },
-        {
-            "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style1/paintchip.pdn",
-            "size": 10990,
-            "date": 132470161062192584
         },
         {
             "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style1/model.01/model.cfg",
@@ -46,11 +51,6 @@
             "date": 132470161061942692
         },
         {
-            "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style2/paintchip.pdn",
-            "size": 10990,
-            "date": 132470161062123560
-        },
-        {
             "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style2/model.02/model.cfg",
             "size": 288,
             "date": 132470161062172288
@@ -86,11 +86,6 @@
             "date": 132470161061347862
         },
         {
-            "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style3/paintchip.pdn",
-            "size": 10990,
-            "date": 132470161061583278
-        },
-        {
             "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style3/model.03/model.cfg",
             "size": 288,
             "date": 132470161061632320
@@ -124,11 +119,6 @@
             "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style4/aircraft.cfg",
             "size": 785,
             "date": 132470161061662318
-        },
-        {
-            "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style4/paintchip.pdn",
-            "size": 10990,
-            "date": 132470161061892694
         },
         {
             "path": "SimObjects/Airplanes/Carenado_M20R_Ovation_Style4/model.04/model.cfg",
