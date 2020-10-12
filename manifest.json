@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "title": "Carenado M20R Paint Kit",
+    "dependencies": [
+        {
+            "name": "carenado-aircraft-m20r-ovation"
+        }
+    ],
+    "minimum_game_version": "1.9.2",
+    "release_notes": {
+        "neutral": {
+            "LastUpdate": "",
+            "OlderHistory": ""
+        }
+    },
+    "package_version": "0.1.0",
+    "content_type": "AIRCRAFT",
+    "creator": "Rob Jones",
+    "total_package_size": "00000000000001468801"
+}
